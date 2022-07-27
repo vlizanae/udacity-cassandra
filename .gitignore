@@ -1,0 +1,4 @@
+*.ipynb_checkpoints*
+event_data
+event_datafile_new.csv
+.workspace-config.json
